@@ -24,11 +24,12 @@ import { imageGradientGenerator } from 'imagecolorgradientgenerator';
 ```
 ### Generate a Gradient  
 Pass an image path to the imageGradientGenerator function:
-    ```js
+    ```bash
     import { imageGradientGenerator } from "imagecolorgradientgenerator";
     async function applyGradient(imageElement) {
         const gradientColors = await imageGradientGenerator(imageElement);
-    }```
+    }
+    ```
 ## How It Works
     -Color Extraction: The package uses a ColorPalleteGenerator class that employs k-means clustering to extract the dominant colors from an image.
     -Hex Conversion: The extracted RGB values are converted into hexadecimal format for CSS compatibility.
@@ -59,8 +60,11 @@ Development
 ### Setup
 
 Clone the repository and install dependencies:
-
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   git clone https://github.com/rohitbhetal/imagecolorgradientgenerator.git  cd imagecolorgradientgenerator  npm install   `
+```bash
+ git clone https://github.com/rohitbhetal/imagecolorgradientgenerator.git
+ cd imagecolorgradientgenerator
+ npm install
+```
 
 ## Dependencies
 ------------
