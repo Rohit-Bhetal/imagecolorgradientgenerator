@@ -18,11 +18,12 @@ npm install imagecolorgradientgenerator
 ```
 ## Usage
 Import the Package
+
 ```js
 import { imageGradientGenerator } from 'imagecolorgradientgenerator';
 ```
-### Generate a Gradient
-    Pass an image path to the imageGradientGenerator function:
+### Generate a Gradient  
+Pass an image path to the imageGradientGenerator function:
     ```js
     import { imageGradientGenerator } from "imagecolorgradientgenerator";
     async function applyGradient(imageElement) {
