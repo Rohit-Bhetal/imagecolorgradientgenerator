@@ -14,7 +14,7 @@
 Install the package using npm:
 
 ```bash
-npm install imagecolorgradientgenerator
+npm install image-gradient-generator
 ```
 ## Usage
 Import the Package
