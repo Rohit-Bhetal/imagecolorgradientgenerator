@@ -51,10 +51,10 @@ async function applyGradient(imageElement) {
 ## Scripts
 * **start**
   ```js
-  npm start ```
+  npm start 
 * **test**
   ```js
-  npm test```
+  npm test
 
 Development
 -----------
