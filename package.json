@@ -1,0 +1,26 @@
+{
+  "name": "imagecolorgradientgenerator",
+  "version": "1.0.0",
+  "description": "Created a gradient generator from the image passed and return a css code for the gradient",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ImageColorGradient.js",
+    "test": "jest"
+  },
+  "jest": {
+    "transform": {
+      "^.+\\.jsx?$": "babel-jest"
+    }
+  },
+  "author": "Rohit Bhetal",
+  "type": "module",
+  "license": "ISC",
+  "dependencies": {
+    "image-js": "^0.36.0",
+    "kmeans-js": "^0.1.2"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.26.0",
+    "jest": "^29.7.0"
+  }
+}
