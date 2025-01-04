@@ -67,6 +67,13 @@ Clone the repository and install dependencies:
  cd imagecolorgradientgenerator
  npm install
 ```
+### Output Result Sample
+![image](https://github.com/user-attachments/assets/1028cc11-4152-46b3-997f-7347677295f1)
+
+
+### Test Result Sample
+![image](https://github.com/user-attachments/assets/3e2469fc-4778-412d-87af-aa940e95348c)
+
 
 ## Dependencies
 ------------
