@@ -70,7 +70,7 @@ Clone the repository and install dependencies:
 ### Output Result Sample
 ![image](https://github.com/user-attachments/assets/1028cc11-4152-46b3-997f-7347677295f1)
 
-
+#### [NPM](https://www.npmjs.com/package/image-gradient-generator)
 
 
 ## Dependencies
